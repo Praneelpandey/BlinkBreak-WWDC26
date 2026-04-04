@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="[YOUR_APP_ICON_URL_HERE]" alt="BlinkBreak Icon" width="120">
+  <img width="120" alt="BlinkBreak Icon" src="https://github.com/user-attachments/assets/3c3fecbc-79a5-4914-89cf-ccb852868f33" />
   
   # BlinkBreak 👁️✨
   **An AR-powered game designed to combat digital eye strain through interactive blinking mechanics.**
+
   
-  🏆 *Winner of the Apple Swift Student Challenge 2026* 🏆
+  🏆 *Winner of the Apple's Swift Student Challenge 2026* 🏆
 
   ![Swift](https://img.shields.io/badge/Swift-5.9-F54A2A.svg?style=flat&logo=swift)
   ![ARKit](https://img.shields.io/badge/ARKit-Face_Tracking-000000.svg?style=flat&logo=apple)
@@ -24,14 +25,17 @@ We spend hours staring at screens, forgetting to blink, which leads to severe di
 
 ## 📸 Sneak Peek
 <div align="center">
-  <img src="[LINK_TO_YOUR_GIF_OR_SCREENSHOT_1]" width="250" alt="Gameplay Screen">
-  <img src="[LINK_TO_YOUR_GIF_OR_SCREENSHOT_2]" width="250" alt="Stats Screen">
+  <img src="https://github.com/user-attachments/assets/e25bf448-b7a1-481e-a185-37504bcf4408" width="250" alt="BlinkBreak Screenshot1">
+  <img src="https://github.com/user-attachments/assets/3755476a-e0a7-4642-ab0c-816b93b211be" width="250" alt="BlinkBreak Screenshot2">
 </div>
 
 ## 🛠️ Tech Stack
 - **Language:** Swift
 - **Frameworks:** SwiftUI, ARKit (ARFaceTrackingConfiguration)
 - **Architecture:** MVVM (Model-View-ViewModel)
+
+
+
 
 ## 🚀 How to Run Locally
 1. Clone the repository:
