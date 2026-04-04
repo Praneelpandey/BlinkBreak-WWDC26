@@ -40,4 +40,4 @@ We spend hours staring at screens, forgetting to blink, which leads to severe di
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Praneelpandey/BlinkBreaknew.git](https://github.com/Praneelpandey/BlinkBreaknew.git)
+   git clone [https://github.com/Praneelpandey/BlinkBreak-WWDC26.git](https://github.com/Praneelpandey/BlinkBreak-WWDC26.git)
