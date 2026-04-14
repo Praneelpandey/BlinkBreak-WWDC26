@@ -36,7 +36,7 @@ We spend hours staring at screens, forgetting to blink, which leads to severe di
 3. **Blink to Attack**: Execute a blink to fire your laser projectiles and purge enemy glitches.
 4. **Ghost Mode**: Tilt your head side-to-side to phase through incoming hazards.
 5. **Monitor Your Strain**: Watch your Shield HP. If you stare too long without blinking, your shields will drop, and visual static will distort your HUD.
-6. **Take Breaks**: Respect the 20-20-20 rule. Pause the game, look 20 feet away for 20 seconds, and return to the fight.
+6. **Take Breaks**: Respect the 20-20-20 rule. Pause the game, look 20 feet away for 20 seconds, and return to the fight .
 
 ## 🛠️ Tech Stack
 - **Language:** Swift
